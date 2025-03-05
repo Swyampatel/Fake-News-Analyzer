@@ -107,4 +107,4 @@ The dashboard includes:
 
 ## Conclusion
 
-This project demonstrates my ability to build full-stack applications that integrate machine learning, web scraping, and data visualization. It highlights my problem-solving skills and adaptability, making me a strong candidate for roles requiring expertise in data science, machine learning, and frontend-backend integration.
+This project demonstrates my ability to build full-stack applications that integrate machine learning, web scraping, and data visualization. It highlights my problem-solving skills and adaptability, making me a strong candidate for roles requiring expertise in data science, machine learning, and frontend-backend integration
